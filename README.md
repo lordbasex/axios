@@ -1,5 +1,5 @@
-# axios
-axios
+# Axios
+Install
 
 ```
 yarn install
