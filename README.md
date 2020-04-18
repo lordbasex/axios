@@ -1,2 +1,6 @@
 # axios
 axios
+
+```
+yarn install
+```
